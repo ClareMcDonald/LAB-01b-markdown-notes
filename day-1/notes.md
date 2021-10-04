@@ -17,4 +17,4 @@
 ### Other
 * ACP : add commit push
 * origin : the code on GitHub
-* terminal : use "tab" to complete what you're typing
+* terminal : use *tab* to complete what you're typing
