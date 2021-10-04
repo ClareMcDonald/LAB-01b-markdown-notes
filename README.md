@@ -1,6 +1,4 @@
 # LAB-01b-markdown-notes
-  | _ _ day-1
-        .
 * [Day 1](day-1/notes.md)
 * [Day 2](day-2/notes.md)
 * [Day 3](day-3/notes.md)
