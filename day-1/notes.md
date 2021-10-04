@@ -12,7 +12,6 @@
 * / (root and path separator) 
 * . (current directory)
 * .. (parent directory)
-* 
 
 ### Other
 * ACP : add commit push
